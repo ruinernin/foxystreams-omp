@@ -1,0 +1,20 @@
+{
+ "name"         : "foxystreams",
+ "repository"   : "nixgates.repository",
+ "plugin"       : "plugin.video.foxystreams",
+ "priority"     : 200,
+ "id"           : "foxystreams",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.foxystreams/?mode=imdb&search={imdb}",
+    "steps"     : [],
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "tvshows"      : [
+ ]
+}

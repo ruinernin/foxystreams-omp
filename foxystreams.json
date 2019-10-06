@@ -1,6 +1,6 @@
 {
  "name"         : "foxystreams",
- "repository"   : "nixgates.repository",
+ "repository"   : "foxystreams.repository",
  "plugin"       : "plugin.video.foxystreams",
  "priority"     : 200,
  "id"           : "foxystreams",
@@ -16,5 +16,12 @@
   ]
  ],
  "tvshows"      : [
+  [
+   {
+    "link"      : "plugin://plugin.video.foxystreams/?mode=tvdb&search={id}&episode={episode}&season={season}",
+    "steps"     : [],
+    "action"    : "PLAY"
+   }
+  ]
  ]
 }

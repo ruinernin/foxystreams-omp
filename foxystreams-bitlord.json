@@ -9,7 +9,7 @@
  "movies"       : [
   [
    {
-    "link"      : "plugin://plugin.video.foxystreams/?scraper=bitlord&mode=imdb&search={imdb}&title={title}&plot={plot}&genre={genres}&votes={votes}&rating={rating}&year={year}&mpaa={mpaa}&premiered={premiered}&origi    naltitle={original_title}&poster={poster}&fanart={fanart}",
+    "link"      : "plugin://plugin.video.foxystreams/?scraper=bitlord&mode=imdb&search={imdb}&title={title}&plot={plot}&genre={genres}&votes={votes}&rating={rating}&year={year}&mpaa={mpaa}&premiered={premiered}&originaltitle={original_title}&poster={poster}&fanart={fanart}",
     "steps"     : [],
     "action"    : "PLAY"
    }
@@ -18,7 +18,7 @@
  "tvshows"      : [
   [
    {
-    "link"      : "plugin://plugin.video.foxystreams/?scraper=bitlord&mode=tvdb&search={id}&episode={episode}&season={season}&title={title}&plot={plot}&genre={genres}&votes={votes}&rating={rating}&year={year}&mpaa={m    paa}&aired={firstaired}&tvshowtitle={showname}&poster={poster}&fanart={fanart}",
+    "link"      : "plugin://plugin.video.foxystreams/?scraper=bitlord&mode=tvdb&search={id}&episode={episode}&season={season}&title={title}&plot={plot}&genre={genres}&votes={votes}&rating={rating}&year={year}&mpaa={mpaa}&aired={firstaired}&tvshowtitle={showname}&poster={poster}&fanart={fanart}",
     "steps"     : [],
     "action"    : "PLAY"
    }

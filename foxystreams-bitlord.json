@@ -3,7 +3,7 @@
  "repository"   : "foxystreams.repository",
  "plugin"       : "plugin.video.foxystreams",
  "priority"     : 200,
- "id"           : "foxystreams",
+ "id"           : "foxystreams-bitlord",
  "filters"      : {},
  "postprocess"  : "",
  "movies"       : [
